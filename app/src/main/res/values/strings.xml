@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="todo">TODO</string>
+    <string name="your_results_will_appear_here">Your results will appear here</string>
+    <string name="snap">SNAP</string>
+    <string name="detect">DETECT</string>
+</resources>
